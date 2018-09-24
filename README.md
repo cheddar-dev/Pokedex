@@ -1,6 +1,6 @@
 # Pokedex
 
-- rounded_graph.pb
+## rounded_graph.pb
  - retrained data
-- retrained_labels.txt
+## retrained_labels.txt
  - label data
